@@ -3,4 +3,4 @@ A sample Platform.IO project that illustrate simple OTA via a Web Server interfa
 
 This sample is developed using VSCode with Platform.IO extension for ESP32 device to illustrate OTA update via simple Web Server.
 
-You can find details in TBD blog post.
+You can find details in https://www.yazilimperver.com/index.php/2020/09/28/esp32-cipleri-icin-ota-guncellemesi/ blog post.
